@@ -1,0 +1,3 @@
+
+print('wszystko')
+import lab
